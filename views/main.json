@@ -1,0 +1,18 @@
+{
+	"id": "main",
+
+	"style": {
+		"background-color": "#fafaff"
+	},
+
+	"contents": [
+		{
+			"name": "panels",
+			"control": "MainPanels",
+			"style": {
+				"width": "fill-parent",
+				"height": "fill-parent" 
+			}
+		}
+	]
+}

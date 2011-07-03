@@ -1,0 +1,18 @@
+{
+	"style": {
+		"background-color": "#fafaff"
+	},
+
+	"contents": [
+		{
+			"control": "TextView",
+			"label": "This is the THIRD view.",
+			"style": {
+				"width": "fill-parent",
+				"height": "fill-parent",
+				"align": "center",
+				"valign": "middle"
+			}
+		}
+	]
+}
